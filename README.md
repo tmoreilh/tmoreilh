@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est [Ton prénom] !</h1>
+<h1 align="center">Salut 👋, moi c'est Thomas !</h1>
 <h3 align="center">🚀 Growth hacker & Data lover | 👨‍💻 Dev & Scraper dans l’âme</h3>
 
 <p align="center">
@@ -37,5 +37,5 @@
 
 ### 📫 Contacte-moi :
 
-- [LinkedIn](https://linkedin.com/in/tonprofil)
-- 📬 ton.email@mail.com
+- [LinkedIn](www.linkedin.com/in/thomas-moreilhon-ba4105143)
+- 📬 thomasmoreilhon@gmail.com
