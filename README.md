@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est [Ton prénom] !</h1>
+<h3 align="center">🚀 Growth hacker & Data lover | 👨‍💻 Dev & Scraper dans l’âme</h3>
 
-<!--
-**tmoreilh/tmoreilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+GitHub+!;Growth+hacking+%F0%9F%9A%80;Scraping+%F0%9F%95%8A%EF%B8%8F+et+automation;Passionn%C3%A9+de+data+%F0%9F%93%8A+et+ski+%E2%9B%84%EF%B8%8F" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 À propos de moi :
+
+- 🔭 Je bosse actuellement sur **Delicity** (Growth B2B)
+- 🧠 Je me forme à fond chez **Rocket School**
+- ⚡ Fun fact : J’ai plus scrapé que skaté 🛹
+
+---
+
+### 🧰 Mes outils préférés :
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,github,git,vscode,linux,figma,postgresql" />
+</p>
+
+---
+
+### 📈 GitHub Stats :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=radical" alt="Stats GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Contacte-moi :
+
+- [LinkedIn](https://linkedin.com/in/tonprofil)
+- 📬 ton.email@mail.com
