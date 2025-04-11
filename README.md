@@ -18,7 +18,7 @@
 ### 🧰 Mes outils préférés :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,git,vscode,linux,figma,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,nodejs,github,git,vscode,linux,c,cpp,python" />
 </p>
 
 ---
