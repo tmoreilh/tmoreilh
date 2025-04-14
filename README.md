@@ -11,7 +11,7 @@
 
 - 🔭 Je bosse actuellement sur **Delicity** (Growth B2B)
 - 🧠 Je me forme à fond chez **Rocket School**
-- ⚡ Fun fact : J’ai plus scrapé que skaté 🛹
+- ⚡ Fun fact : Je code mes propres outils en open-scource
 
 ---
 
